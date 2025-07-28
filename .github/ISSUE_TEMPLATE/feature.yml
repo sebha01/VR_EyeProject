@@ -2,7 +2,7 @@ name: File a Feature Issue
 description: File a feature report
 title: "[Feature]: <title and short description>"
 labels: ["feature"]
-projects: [""]
+projects: ["6"]
 assignees:
   - sebha01
 body:
