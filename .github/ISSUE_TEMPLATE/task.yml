@@ -2,7 +2,7 @@ name: File a Task Issue
 description: File a Task report
 title: "[Task]: <title and short description>"
 labels: ["task"]
-projects: ["6"]
+projects: ["sebha01/6"]
 assignees:
   - sebha01
 body:
