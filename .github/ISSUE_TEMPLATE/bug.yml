@@ -2,9 +2,9 @@ name: File a Bug Issue
 description: File a bug report
 title: "[Bug]: <title and short description>"
 labels: ["bug"]
-projects: ["22"]
+projects: [""]
 assignees:
-  - octocat
+  - sebha01
 body:
   - type: markdown
     attributes:
