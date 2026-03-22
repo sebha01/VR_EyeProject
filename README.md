@@ -1,2 +1,2 @@
 # VR_EyeProject
-This repository contains my final year project for my computer games degree where I will create a training environment in VR for student nurses and medical students to study about eyes
+This repository contains my final year project for my computer games degree where I created an immersive experience using Virtual Reality to display the symptoms of DES and preventative measures. The project was made using Unreal Engine 5.3 blueprinting.
